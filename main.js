@@ -37,7 +37,7 @@ function choosePhrase() {
 function pressedEnter(e) {
   if(e.key == 'Enter' && screen1.classList.contains('hide')) {
     closeCookie()
-  } else {
+  } else if (e.key == 'Enter' && screen2.classList.contains('hide')){
     openCookie()
   }
 }
