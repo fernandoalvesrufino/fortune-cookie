@@ -104,4 +104,4 @@ Esse projeto está sob a licença MIT.
 
 by Fernando Rufino
 
-> Projeto criado pela Rocketseat 
+`Projeto criado pela Rocketseat`
